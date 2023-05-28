@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: orange;
+    font-family: Tahoma;
+    font-size: 48px;
+  }
+  
+  div a {
+    color: silver;
+    font-family: sans-serif;
+    font-size: 24px;
+  }
+  
+  .recipe1 {
+    background-color: red;
+  }
+  
+  .recipe2 {
+    background-color: yellow;
+  }
+  
+  .recipe3 {
+    background-color: blue;
+  }
