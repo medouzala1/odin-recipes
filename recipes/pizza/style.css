@@ -1,0 +1,17 @@
+h1, h2, h3 {
+    text-align: left;
+    font-weight: 700;
+    font-family: Verdana;
+    color: white;
+  }
+  
+  body {
+    background-color: black;
+  }
+  
+  .text {
+    color: white;
+    font-family: "Courier New";
+  }
+  
+  
